@@ -11,6 +11,7 @@ int main()
     {
         printf("Can't multiply...");
     }
+        
     else
     {
         printf("Enter the elements of 1st matrix:\n");
